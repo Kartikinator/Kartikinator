@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building machine learning algorithms for medical research
 - 🌱 I’m currently learning how to build an attention based transformer network
 - 👯 I’m looking to collaborate on anything tech
